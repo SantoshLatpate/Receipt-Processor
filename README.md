@@ -10,8 +10,8 @@ Before you can run this Docker container, you need to have Docker installed on y
 
 ## Getting Started
 
-Follow these steps to run the container:
-I am using Macbook M2 , so My comments are according to that
+Follow these steps to run the container: <br/>
+Since I'm using a Macbook M2, my remarks are based on it.
 
 1. Clone this repository to your local machine:
 
