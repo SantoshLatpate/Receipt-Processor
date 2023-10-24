@@ -13,7 +13,7 @@ RUN npm install
 COPY . .
 
 # Copy the rest of your application source code to the container
-EXPOSE 3000
+EXPOSE 8080
 
 # Specify the command to run your application
-CMD [ "node", "src/app.js" ]
+CMD [ "node", "app.js" ]
