@@ -2,7 +2,7 @@
 
 #  Receipt Processor Application
 
-Welcome to the Receipt Processor for My Awesome Application!
+Welcome to the Receipt Processor!
 
 ## Prerequisites
 
